@@ -1,12 +1,26 @@
 <resources>
     <string name="app_name">BooKarle</string>
     <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="welcome">"Welcome !"</string>
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="here_s_your_first_step_with_us">Here\'s your first step with us!</string>
+    <string name="mobile">Mobile</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="enter_mobile_no">Enter Mobile no.</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="facebook_logo">facebook_logo</string>
+    <string name="google_plus_logo">google_plus_logo</string>
+    <string name="firsttext">firstText</string>
+    <string name="group_of_people_image">groupOfPeopleImage</string>
+    <string name="confirm_password">Confirm password</string>
 </resources>
