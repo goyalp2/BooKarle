@@ -52,7 +52,11 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:paddingTop="10dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingBottom="10dp">
 
             <com.google.android.material.textfield.TextInputLayout
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
@@ -156,6 +160,7 @@
                 android:textColor="@color/white"
                 android:layout_marginTop="10dp"
                 android:backgroundTint="@color/aqua_blue"
+                android:layout_marginBottom="10dp"
                 />
 
         </LinearLayout>
