@@ -1,4 +1,4 @@
-package com.example.bookarle.views.activities
+package com.example.bookarle.views.welcome
 
 import android.os.Bundle
 import android.os.Handler
