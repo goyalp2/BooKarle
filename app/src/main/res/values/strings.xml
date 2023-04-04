@@ -17,4 +17,11 @@
     <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
     <string name="login_name_hint">Name</string>
     <string name="login_mobile_number_hint">Mobile Number</string>
+
+    !--Content Description-->
+    <string name="regis_iv_1">app logo</string>
+    <string name="regis_sign_up">Sign-up</string>
+    <string name="regis_hint_first_name">First Name</string>
+    <string name="regis_hint_middle_name">Middle Name(Optional)</string>
+    <string name="regis_hint_last_name">Last Name</string>
 </resources>

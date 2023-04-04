@@ -1,4 +1,10 @@
 package com.example.bookarle.views.registration
 
-class RegisterMainActivity {
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
+class RegisterMainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+    }
 }
